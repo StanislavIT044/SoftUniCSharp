@@ -1,0 +1,11 @@
+C:\Users\Slavi044\Desktop\SoftUni\C#Advanced\StreamsFilesAndDirectories\MyOwnWordDictionary\MyOwnWordDictionary\bin\Debug\netcoreapp2.1\MyOwnWordDictionary.deps.json
+C:\Users\Slavi044\Desktop\SoftUni\C#Advanced\StreamsFilesAndDirectories\MyOwnWordDictionary\MyOwnWordDictionary\bin\Debug\netcoreapp2.1\MyOwnWordDictionary.runtimeconfig.json
+C:\Users\Slavi044\Desktop\SoftUni\C#Advanced\StreamsFilesAndDirectories\MyOwnWordDictionary\MyOwnWordDictionary\bin\Debug\netcoreapp2.1\MyOwnWordDictionary.runtimeconfig.dev.json
+C:\Users\Slavi044\Desktop\SoftUni\C#Advanced\StreamsFilesAndDirectories\MyOwnWordDictionary\MyOwnWordDictionary\bin\Debug\netcoreapp2.1\MyOwnWordDictionary.dll
+C:\Users\Slavi044\Desktop\SoftUni\C#Advanced\StreamsFilesAndDirectories\MyOwnWordDictionary\MyOwnWordDictionary\bin\Debug\netcoreapp2.1\MyOwnWordDictionary.pdb
+C:\Users\Slavi044\Desktop\SoftUni\C#Advanced\StreamsFilesAndDirectories\MyOwnWordDictionary\MyOwnWordDictionary\obj\Debug\netcoreapp2.1\MyOwnWordDictionary.csprojAssemblyReference.cache
+C:\Users\Slavi044\Desktop\SoftUni\C#Advanced\StreamsFilesAndDirectories\MyOwnWordDictionary\MyOwnWordDictionary\obj\Debug\netcoreapp2.1\MyOwnWordDictionary.csproj.CoreCompileInputs.cache
+C:\Users\Slavi044\Desktop\SoftUni\C#Advanced\StreamsFilesAndDirectories\MyOwnWordDictionary\MyOwnWordDictionary\obj\Debug\netcoreapp2.1\MyOwnWordDictionary.AssemblyInfoInputs.cache
+C:\Users\Slavi044\Desktop\SoftUni\C#Advanced\StreamsFilesAndDirectories\MyOwnWordDictionary\MyOwnWordDictionary\obj\Debug\netcoreapp2.1\MyOwnWordDictionary.AssemblyInfo.cs
+C:\Users\Slavi044\Desktop\SoftUni\C#Advanced\StreamsFilesAndDirectories\MyOwnWordDictionary\MyOwnWordDictionary\obj\Debug\netcoreapp2.1\MyOwnWordDictionary.dll
+C:\Users\Slavi044\Desktop\SoftUni\C#Advanced\StreamsFilesAndDirectories\MyOwnWordDictionary\MyOwnWordDictionary\obj\Debug\netcoreapp2.1\MyOwnWordDictionary.pdb

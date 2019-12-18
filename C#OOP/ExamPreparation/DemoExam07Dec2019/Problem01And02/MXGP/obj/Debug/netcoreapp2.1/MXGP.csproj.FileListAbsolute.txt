@@ -1,0 +1,10 @@
+C:\Users\Slavi044\Desktop\SoftUni\C#OOP\ExamPreparation\DemoExam07Dec2019\Problem01And02\MXGP\obj\Debug\netcoreapp2.1\MXGP.csprojAssemblyReference.cache
+C:\Users\Slavi044\Desktop\SoftUni\C#OOP\ExamPreparation\DemoExam07Dec2019\Problem01And02\MXGP\obj\Debug\netcoreapp2.1\MXGP.AssemblyInfoInputs.cache
+C:\Users\Slavi044\Desktop\SoftUni\C#OOP\ExamPreparation\DemoExam07Dec2019\Problem01And02\MXGP\obj\Debug\netcoreapp2.1\MXGP.AssemblyInfo.cs
+C:\Users\Slavi044\Desktop\SoftUni\C#OOP\ExamPreparation\DemoExam07Dec2019\Problem01And02\MXGP\bin\Debug\netcoreapp2.1\MXGP.deps.json
+C:\Users\Slavi044\Desktop\SoftUni\C#OOP\ExamPreparation\DemoExam07Dec2019\Problem01And02\MXGP\bin\Debug\netcoreapp2.1\MXGP.runtimeconfig.json
+C:\Users\Slavi044\Desktop\SoftUni\C#OOP\ExamPreparation\DemoExam07Dec2019\Problem01And02\MXGP\bin\Debug\netcoreapp2.1\MXGP.runtimeconfig.dev.json
+C:\Users\Slavi044\Desktop\SoftUni\C#OOP\ExamPreparation\DemoExam07Dec2019\Problem01And02\MXGP\bin\Debug\netcoreapp2.1\MXGP.dll
+C:\Users\Slavi044\Desktop\SoftUni\C#OOP\ExamPreparation\DemoExam07Dec2019\Problem01And02\MXGP\bin\Debug\netcoreapp2.1\MXGP.pdb
+C:\Users\Slavi044\Desktop\SoftUni\C#OOP\ExamPreparation\DemoExam07Dec2019\Problem01And02\MXGP\obj\Debug\netcoreapp2.1\MXGP.dll
+C:\Users\Slavi044\Desktop\SoftUni\C#OOP\ExamPreparation\DemoExam07Dec2019\Problem01And02\MXGP\obj\Debug\netcoreapp2.1\MXGP.pdb

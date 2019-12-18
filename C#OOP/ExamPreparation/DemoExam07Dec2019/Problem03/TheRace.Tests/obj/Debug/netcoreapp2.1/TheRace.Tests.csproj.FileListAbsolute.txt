@@ -1,0 +1,16 @@
+C:\Users\Slavi044\Desktop\SoftUni\C#OOP\ExamPreparation\DemoExam07Dec2019\Problem03\TheRace.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\Slavi044\Desktop\SoftUni\C#OOP\ExamPreparation\DemoExam07Dec2019\Problem03\TheRace.Tests\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\Slavi044\Desktop\SoftUni\C#OOP\ExamPreparation\DemoExam07Dec2019\Problem03\TheRace.Tests\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+C:\Users\Slavi044\Desktop\SoftUni\C#OOP\ExamPreparation\DemoExam07Dec2019\Problem03\TheRace.Tests\bin\Debug\netcoreapp2.1\TheRace.Tests.deps.json
+C:\Users\Slavi044\Desktop\SoftUni\C#OOP\ExamPreparation\DemoExam07Dec2019\Problem03\TheRace.Tests\bin\Debug\netcoreapp2.1\TheRace.Tests.runtimeconfig.json
+C:\Users\Slavi044\Desktop\SoftUni\C#OOP\ExamPreparation\DemoExam07Dec2019\Problem03\TheRace.Tests\bin\Debug\netcoreapp2.1\TheRace.Tests.runtimeconfig.dev.json
+C:\Users\Slavi044\Desktop\SoftUni\C#OOP\ExamPreparation\DemoExam07Dec2019\Problem03\TheRace.Tests\bin\Debug\netcoreapp2.1\TheRace.Tests.dll
+C:\Users\Slavi044\Desktop\SoftUni\C#OOP\ExamPreparation\DemoExam07Dec2019\Problem03\TheRace.Tests\bin\Debug\netcoreapp2.1\TheRace.Tests.pdb
+C:\Users\Slavi044\Desktop\SoftUni\C#OOP\ExamPreparation\DemoExam07Dec2019\Problem03\TheRace.Tests\bin\Debug\netcoreapp2.1\TheRace.dll
+C:\Users\Slavi044\Desktop\SoftUni\C#OOP\ExamPreparation\DemoExam07Dec2019\Problem03\TheRace.Tests\bin\Debug\netcoreapp2.1\TheRace.pdb
+C:\Users\Slavi044\Desktop\SoftUni\C#OOP\ExamPreparation\DemoExam07Dec2019\Problem03\TheRace.Tests\obj\Debug\netcoreapp2.1\TheRace.Tests.csprojAssemblyReference.cache
+C:\Users\Slavi044\Desktop\SoftUni\C#OOP\ExamPreparation\DemoExam07Dec2019\Problem03\TheRace.Tests\obj\Debug\netcoreapp2.1\TheRace.Tests.AssemblyInfoInputs.cache
+C:\Users\Slavi044\Desktop\SoftUni\C#OOP\ExamPreparation\DemoExam07Dec2019\Problem03\TheRace.Tests\obj\Debug\netcoreapp2.1\TheRace.Tests.AssemblyInfo.cs
+C:\Users\Slavi044\Desktop\SoftUni\C#OOP\ExamPreparation\DemoExam07Dec2019\Problem03\TheRace.Tests\obj\Debug\netcoreapp2.1\TheRace.Tests.csproj.CopyComplete
+C:\Users\Slavi044\Desktop\SoftUni\C#OOP\ExamPreparation\DemoExam07Dec2019\Problem03\TheRace.Tests\obj\Debug\netcoreapp2.1\TheRace.Tests.dll
+C:\Users\Slavi044\Desktop\SoftUni\C#OOP\ExamPreparation\DemoExam07Dec2019\Problem03\TheRace.Tests\obj\Debug\netcoreapp2.1\TheRace.Tests.pdb

@@ -1,0 +1,11 @@
+C:\Users\Slavi044\Desktop\SoftUni\Exams\C#OOPExam-15December2019\Probelm03\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.exe
+C:\Users\Slavi044\Desktop\SoftUni\Exams\C#OOPExam-15December2019\Probelm03\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.deps.json
+C:\Users\Slavi044\Desktop\SoftUni\Exams\C#OOPExam-15December2019\Probelm03\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.runtimeconfig.json
+C:\Users\Slavi044\Desktop\SoftUni\Exams\C#OOPExam-15December2019\Probelm03\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.runtimeconfig.dev.json
+C:\Users\Slavi044\Desktop\SoftUni\Exams\C#OOPExam-15December2019\Probelm03\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.dll
+C:\Users\Slavi044\Desktop\SoftUni\Exams\C#OOPExam-15December2019\Probelm03\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.pdb
+C:\Users\Slavi044\Desktop\SoftUni\Exams\C#OOPExam-15December2019\Probelm03\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.csprojAssemblyReference.cache
+C:\Users\Slavi044\Desktop\SoftUni\Exams\C#OOPExam-15December2019\Probelm03\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.AssemblyInfoInputs.cache
+C:\Users\Slavi044\Desktop\SoftUni\Exams\C#OOPExam-15December2019\Probelm03\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.AssemblyInfo.cs
+C:\Users\Slavi044\Desktop\SoftUni\Exams\C#OOPExam-15December2019\Probelm03\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.dll
+C:\Users\Slavi044\Desktop\SoftUni\Exams\C#OOPExam-15December2019\Probelm03\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.pdb

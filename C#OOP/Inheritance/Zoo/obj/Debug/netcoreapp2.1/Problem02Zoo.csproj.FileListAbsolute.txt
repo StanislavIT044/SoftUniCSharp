@@ -1,0 +1,10 @@
+C:\Users\Slavi044\Desktop\SoftUni\C#OOP\Inheritance\Zoo\bin\Debug\netcoreapp2.1\Problem02Zoo.deps.json
+C:\Users\Slavi044\Desktop\SoftUni\C#OOP\Inheritance\Zoo\bin\Debug\netcoreapp2.1\Problem02Zoo.runtimeconfig.json
+C:\Users\Slavi044\Desktop\SoftUni\C#OOP\Inheritance\Zoo\bin\Debug\netcoreapp2.1\Problem02Zoo.runtimeconfig.dev.json
+C:\Users\Slavi044\Desktop\SoftUni\C#OOP\Inheritance\Zoo\bin\Debug\netcoreapp2.1\Problem02Zoo.dll
+C:\Users\Slavi044\Desktop\SoftUni\C#OOP\Inheritance\Zoo\bin\Debug\netcoreapp2.1\Problem02Zoo.pdb
+C:\Users\Slavi044\Desktop\SoftUni\C#OOP\Inheritance\Zoo\obj\Debug\netcoreapp2.1\Problem02Zoo.AssemblyInfoInputs.cache
+C:\Users\Slavi044\Desktop\SoftUni\C#OOP\Inheritance\Zoo\obj\Debug\netcoreapp2.1\Problem02Zoo.AssemblyInfo.cs
+C:\Users\Slavi044\Desktop\SoftUni\C#OOP\Inheritance\Zoo\obj\Debug\netcoreapp2.1\Problem02Zoo.dll
+C:\Users\Slavi044\Desktop\SoftUni\C#OOP\Inheritance\Zoo\obj\Debug\netcoreapp2.1\Problem02Zoo.pdb
+C:\Users\Slavi044\Desktop\SoftUni\C#OOP\Inheritance\Zoo\obj\Debug\netcoreapp2.1\Problem02Zoo.csprojAssemblyReference.cache

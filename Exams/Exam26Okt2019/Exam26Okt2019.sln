@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem1", "Problem1\Problem1.csproj", "{9B3D9A55-D862-49C9-B67A-41478201F3BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2BookWorm", "2BookWorm\2BookWorm.csproj", "{FAE8301D-3A8A-445D-9120-FD9AA6DE366B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B3D9A55-D862-49C9-B67A-41478201F3BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B3D9A55-D862-49C9-B67A-41478201F3BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B3D9A55-D862-49C9-B67A-41478201F3BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B3D9A55-D862-49C9-B67A-41478201F3BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAE8301D-3A8A-445D-9120-FD9AA6DE366B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAE8301D-3A8A-445D-9120-FD9AA6DE366B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAE8301D-3A8A-445D-9120-FD9AA6DE366B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAE8301D-3A8A-445D-9120-FD9AA6DE366B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87BF09B0-E735-445B-9156-B8FFFE4DA508}
+	EndGlobalSection
+EndGlobal

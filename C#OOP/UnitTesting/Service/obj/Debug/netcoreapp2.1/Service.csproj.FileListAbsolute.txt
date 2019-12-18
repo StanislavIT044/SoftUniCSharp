@@ -1,0 +1,7 @@
+C:\Users\Slavi044\Desktop\SoftUni\C#OOP\UnitTesting\Service\bin\Debug\netcoreapp2.1\Service.deps.json
+C:\Users\Slavi044\Desktop\SoftUni\C#OOP\UnitTesting\Service\bin\Debug\netcoreapp2.1\Service.dll
+C:\Users\Slavi044\Desktop\SoftUni\C#OOP\UnitTesting\Service\bin\Debug\netcoreapp2.1\Service.pdb
+C:\Users\Slavi044\Desktop\SoftUni\C#OOP\UnitTesting\Service\obj\Debug\netcoreapp2.1\Service.AssemblyInfoInputs.cache
+C:\Users\Slavi044\Desktop\SoftUni\C#OOP\UnitTesting\Service\obj\Debug\netcoreapp2.1\Service.AssemblyInfo.cs
+C:\Users\Slavi044\Desktop\SoftUni\C#OOP\UnitTesting\Service\obj\Debug\netcoreapp2.1\Service.dll
+C:\Users\Slavi044\Desktop\SoftUni\C#OOP\UnitTesting\Service\obj\Debug\netcoreapp2.1\Service.pdb

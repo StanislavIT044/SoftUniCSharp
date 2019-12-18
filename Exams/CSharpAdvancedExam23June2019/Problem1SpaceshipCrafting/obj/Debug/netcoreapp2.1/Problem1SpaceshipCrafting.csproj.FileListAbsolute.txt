@@ -1,0 +1,11 @@
+C:\Users\Slavi044\Desktop\SoftUni\C#Advanced\Generics\CSharpAdvancedExam23June2019\Problem1SpaceshipCrafting\bin\Debug\netcoreapp2.1\Problem1SpaceshipCrafting.deps.json
+C:\Users\Slavi044\Desktop\SoftUni\C#Advanced\Generics\CSharpAdvancedExam23June2019\Problem1SpaceshipCrafting\bin\Debug\netcoreapp2.1\Problem1SpaceshipCrafting.runtimeconfig.json
+C:\Users\Slavi044\Desktop\SoftUni\C#Advanced\Generics\CSharpAdvancedExam23June2019\Problem1SpaceshipCrafting\bin\Debug\netcoreapp2.1\Problem1SpaceshipCrafting.runtimeconfig.dev.json
+C:\Users\Slavi044\Desktop\SoftUni\C#Advanced\Generics\CSharpAdvancedExam23June2019\Problem1SpaceshipCrafting\bin\Debug\netcoreapp2.1\Problem1SpaceshipCrafting.dll
+C:\Users\Slavi044\Desktop\SoftUni\C#Advanced\Generics\CSharpAdvancedExam23June2019\Problem1SpaceshipCrafting\bin\Debug\netcoreapp2.1\Problem1SpaceshipCrafting.pdb
+C:\Users\Slavi044\Desktop\SoftUni\C#Advanced\Generics\CSharpAdvancedExam23June2019\Problem1SpaceshipCrafting\obj\Debug\netcoreapp2.1\Problem1SpaceshipCrafting.csprojAssemblyReference.cache
+C:\Users\Slavi044\Desktop\SoftUni\C#Advanced\Generics\CSharpAdvancedExam23June2019\Problem1SpaceshipCrafting\obj\Debug\netcoreapp2.1\Problem1SpaceshipCrafting.csproj.CoreCompileInputs.cache
+C:\Users\Slavi044\Desktop\SoftUni\C#Advanced\Generics\CSharpAdvancedExam23June2019\Problem1SpaceshipCrafting\obj\Debug\netcoreapp2.1\Problem1SpaceshipCrafting.AssemblyInfoInputs.cache
+C:\Users\Slavi044\Desktop\SoftUni\C#Advanced\Generics\CSharpAdvancedExam23June2019\Problem1SpaceshipCrafting\obj\Debug\netcoreapp2.1\Problem1SpaceshipCrafting.AssemblyInfo.cs
+C:\Users\Slavi044\Desktop\SoftUni\C#Advanced\Generics\CSharpAdvancedExam23June2019\Problem1SpaceshipCrafting\obj\Debug\netcoreapp2.1\Problem1SpaceshipCrafting.dll
+C:\Users\Slavi044\Desktop\SoftUni\C#Advanced\Generics\CSharpAdvancedExam23June2019\Problem1SpaceshipCrafting\obj\Debug\netcoreapp2.1\Problem1SpaceshipCrafting.pdb

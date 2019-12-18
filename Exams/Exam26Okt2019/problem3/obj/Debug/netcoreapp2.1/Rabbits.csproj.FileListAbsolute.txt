@@ -1,0 +1,11 @@
+C:\Users\Slavi044\source\repos\Exam26Okt2019\problem3\obj\Debug\netcoreapp2.1\Rabbits.csprojAssemblyReference.cache
+C:\Users\Slavi044\source\repos\Exam26Okt2019\problem3\obj\Debug\netcoreapp2.1\Rabbits.csproj.CoreCompileInputs.cache
+C:\Users\Slavi044\source\repos\Exam26Okt2019\problem3\obj\Debug\netcoreapp2.1\Rabbits.AssemblyInfoInputs.cache
+C:\Users\Slavi044\source\repos\Exam26Okt2019\problem3\obj\Debug\netcoreapp2.1\Rabbits.AssemblyInfo.cs
+C:\Users\Slavi044\source\repos\Exam26Okt2019\problem3\bin\Debug\netcoreapp2.1\Rabbits.deps.json
+C:\Users\Slavi044\source\repos\Exam26Okt2019\problem3\bin\Debug\netcoreapp2.1\Rabbits.runtimeconfig.json
+C:\Users\Slavi044\source\repos\Exam26Okt2019\problem3\bin\Debug\netcoreapp2.1\Rabbits.runtimeconfig.dev.json
+C:\Users\Slavi044\source\repos\Exam26Okt2019\problem3\bin\Debug\netcoreapp2.1\Rabbits.dll
+C:\Users\Slavi044\source\repos\Exam26Okt2019\problem3\bin\Debug\netcoreapp2.1\Rabbits.pdb
+C:\Users\Slavi044\source\repos\Exam26Okt2019\problem3\obj\Debug\netcoreapp2.1\Rabbits.dll
+C:\Users\Slavi044\source\repos\Exam26Okt2019\problem3\obj\Debug\netcoreapp2.1\Rabbits.pdb

@@ -1,0 +1,11 @@
+C:\Users\Slavi044\Desktop\SoftUni\Exams\(Demo)CSharpAdvancedExam23October2019\Problem02MakeASalad\bin\Debug\netcoreapp2.1\Problem02MakeASalad.deps.json
+C:\Users\Slavi044\Desktop\SoftUni\Exams\(Demo)CSharpAdvancedExam23October2019\Problem02MakeASalad\bin\Debug\netcoreapp2.1\Problem02MakeASalad.runtimeconfig.json
+C:\Users\Slavi044\Desktop\SoftUni\Exams\(Demo)CSharpAdvancedExam23October2019\Problem02MakeASalad\bin\Debug\netcoreapp2.1\Problem02MakeASalad.runtimeconfig.dev.json
+C:\Users\Slavi044\Desktop\SoftUni\Exams\(Demo)CSharpAdvancedExam23October2019\Problem02MakeASalad\bin\Debug\netcoreapp2.1\Problem02MakeASalad.dll
+C:\Users\Slavi044\Desktop\SoftUni\Exams\(Demo)CSharpAdvancedExam23October2019\Problem02MakeASalad\bin\Debug\netcoreapp2.1\Problem02MakeASalad.pdb
+C:\Users\Slavi044\Desktop\SoftUni\Exams\(Demo)CSharpAdvancedExam23October2019\Problem02MakeASalad\obj\Debug\netcoreapp2.1\Problem02MakeASalad.csprojAssemblyReference.cache
+C:\Users\Slavi044\Desktop\SoftUni\Exams\(Demo)CSharpAdvancedExam23October2019\Problem02MakeASalad\obj\Debug\netcoreapp2.1\Problem02MakeASalad.csproj.CoreCompileInputs.cache
+C:\Users\Slavi044\Desktop\SoftUni\Exams\(Demo)CSharpAdvancedExam23October2019\Problem02MakeASalad\obj\Debug\netcoreapp2.1\Problem02MakeASalad.AssemblyInfoInputs.cache
+C:\Users\Slavi044\Desktop\SoftUni\Exams\(Demo)CSharpAdvancedExam23October2019\Problem02MakeASalad\obj\Debug\netcoreapp2.1\Problem02MakeASalad.AssemblyInfo.cs
+C:\Users\Slavi044\Desktop\SoftUni\Exams\(Demo)CSharpAdvancedExam23October2019\Problem02MakeASalad\obj\Debug\netcoreapp2.1\Problem02MakeASalad.dll
+C:\Users\Slavi044\Desktop\SoftUni\Exams\(Demo)CSharpAdvancedExam23October2019\Problem02MakeASalad\obj\Debug\netcoreapp2.1\Problem02MakeASalad.pdb

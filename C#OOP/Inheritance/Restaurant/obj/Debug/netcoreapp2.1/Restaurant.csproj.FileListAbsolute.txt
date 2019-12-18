@@ -1,0 +1,10 @@
+C:\Users\Slavi044\Desktop\SoftUni\C#OOP\Inheritance\Restaurant\bin\Debug\netcoreapp2.1\Restaurant.deps.json
+C:\Users\Slavi044\Desktop\SoftUni\C#OOP\Inheritance\Restaurant\bin\Debug\netcoreapp2.1\Restaurant.runtimeconfig.json
+C:\Users\Slavi044\Desktop\SoftUni\C#OOP\Inheritance\Restaurant\bin\Debug\netcoreapp2.1\Restaurant.runtimeconfig.dev.json
+C:\Users\Slavi044\Desktop\SoftUni\C#OOP\Inheritance\Restaurant\bin\Debug\netcoreapp2.1\Restaurant.dll
+C:\Users\Slavi044\Desktop\SoftUni\C#OOP\Inheritance\Restaurant\bin\Debug\netcoreapp2.1\Restaurant.pdb
+C:\Users\Slavi044\Desktop\SoftUni\C#OOP\Inheritance\Restaurant\obj\Debug\netcoreapp2.1\Restaurant.AssemblyInfoInputs.cache
+C:\Users\Slavi044\Desktop\SoftUni\C#OOP\Inheritance\Restaurant\obj\Debug\netcoreapp2.1\Restaurant.AssemblyInfo.cs
+C:\Users\Slavi044\Desktop\SoftUni\C#OOP\Inheritance\Restaurant\obj\Debug\netcoreapp2.1\Restaurant.dll
+C:\Users\Slavi044\Desktop\SoftUni\C#OOP\Inheritance\Restaurant\obj\Debug\netcoreapp2.1\Restaurant.pdb
+C:\Users\Slavi044\Desktop\SoftUni\C#OOP\Inheritance\Restaurant\obj\Debug\netcoreapp2.1\Restaurant.csprojAssemblyReference.cache

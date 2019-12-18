@@ -1,0 +1,11 @@
+C:\Users\Slavi044\Desktop\SoftUni\C#Advanced\StreamsFilesAndDirectories\StreamsDemo\StreamsDemo\bin\Debug\netcoreapp2.1\StreamsDemo.deps.json
+C:\Users\Slavi044\Desktop\SoftUni\C#Advanced\StreamsFilesAndDirectories\StreamsDemo\StreamsDemo\bin\Debug\netcoreapp2.1\StreamsDemo.runtimeconfig.json
+C:\Users\Slavi044\Desktop\SoftUni\C#Advanced\StreamsFilesAndDirectories\StreamsDemo\StreamsDemo\bin\Debug\netcoreapp2.1\StreamsDemo.runtimeconfig.dev.json
+C:\Users\Slavi044\Desktop\SoftUni\C#Advanced\StreamsFilesAndDirectories\StreamsDemo\StreamsDemo\bin\Debug\netcoreapp2.1\StreamsDemo.dll
+C:\Users\Slavi044\Desktop\SoftUni\C#Advanced\StreamsFilesAndDirectories\StreamsDemo\StreamsDemo\bin\Debug\netcoreapp2.1\StreamsDemo.pdb
+C:\Users\Slavi044\Desktop\SoftUni\C#Advanced\StreamsFilesAndDirectories\StreamsDemo\StreamsDemo\obj\Debug\netcoreapp2.1\StreamsDemo.csproj.CoreCompileInputs.cache
+C:\Users\Slavi044\Desktop\SoftUni\C#Advanced\StreamsFilesAndDirectories\StreamsDemo\StreamsDemo\obj\Debug\netcoreapp2.1\StreamsDemo.AssemblyInfoInputs.cache
+C:\Users\Slavi044\Desktop\SoftUni\C#Advanced\StreamsFilesAndDirectories\StreamsDemo\StreamsDemo\obj\Debug\netcoreapp2.1\StreamsDemo.AssemblyInfo.cs
+C:\Users\Slavi044\Desktop\SoftUni\C#Advanced\StreamsFilesAndDirectories\StreamsDemo\StreamsDemo\obj\Debug\netcoreapp2.1\StreamsDemo.dll
+C:\Users\Slavi044\Desktop\SoftUni\C#Advanced\StreamsFilesAndDirectories\StreamsDemo\StreamsDemo\obj\Debug\netcoreapp2.1\StreamsDemo.pdb
+C:\Users\Slavi044\Desktop\SoftUni\C#Advanced\StreamsFilesAndDirectories\StreamsDemo\StreamsDemo\obj\Debug\netcoreapp2.1\StreamsDemo.csprojAssemblyReference.cache

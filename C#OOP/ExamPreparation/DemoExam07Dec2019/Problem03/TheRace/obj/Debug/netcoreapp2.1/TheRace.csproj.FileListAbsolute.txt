@@ -1,0 +1,8 @@
+C:\Users\Slavi044\Desktop\SoftUni\C#OOP\ExamPreparation\DemoExam07Dec2019\Problem03\TheRace\bin\Debug\netcoreapp2.1\TheRace.deps.json
+C:\Users\Slavi044\Desktop\SoftUni\C#OOP\ExamPreparation\DemoExam07Dec2019\Problem03\TheRace\bin\Debug\netcoreapp2.1\TheRace.dll
+C:\Users\Slavi044\Desktop\SoftUni\C#OOP\ExamPreparation\DemoExam07Dec2019\Problem03\TheRace\bin\Debug\netcoreapp2.1\TheRace.pdb
+C:\Users\Slavi044\Desktop\SoftUni\C#OOP\ExamPreparation\DemoExam07Dec2019\Problem03\TheRace\obj\Debug\netcoreapp2.1\TheRace.csprojAssemblyReference.cache
+C:\Users\Slavi044\Desktop\SoftUni\C#OOP\ExamPreparation\DemoExam07Dec2019\Problem03\TheRace\obj\Debug\netcoreapp2.1\TheRace.AssemblyInfoInputs.cache
+C:\Users\Slavi044\Desktop\SoftUni\C#OOP\ExamPreparation\DemoExam07Dec2019\Problem03\TheRace\obj\Debug\netcoreapp2.1\TheRace.AssemblyInfo.cs
+C:\Users\Slavi044\Desktop\SoftUni\C#OOP\ExamPreparation\DemoExam07Dec2019\Problem03\TheRace\obj\Debug\netcoreapp2.1\TheRace.dll
+C:\Users\Slavi044\Desktop\SoftUni\C#OOP\ExamPreparation\DemoExam07Dec2019\Problem03\TheRace\obj\Debug\netcoreapp2.1\TheRace.pdb
