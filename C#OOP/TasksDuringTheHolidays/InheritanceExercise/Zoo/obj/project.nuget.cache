@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "znhMIIxIRVM6/qx9zgCIUmicHIVr7w/b7OrE1mlRNUKrBERiaBV4PANZVUGFE5lfPtN4fx33vjtvlNxIaN75yg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\slavi\\OneDrive\\Desktop\\Softuni\\SoftUniCSharp\\C#OOP\\TasksDuringTheHolidays\\InheritanceExercise\\Zoo\\Zoo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\slavi\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\slavi\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\slavi\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\slavi\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\slavi\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\slavi\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\slavi\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
