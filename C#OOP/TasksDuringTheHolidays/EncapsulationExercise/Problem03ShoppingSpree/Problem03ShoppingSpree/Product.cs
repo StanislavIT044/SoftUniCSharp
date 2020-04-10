@@ -4,15 +4,15 @@ using System.Text;
 
 namespace Problem03ShoppingSpree
 {
-    public class Product
+    internal class Product
     {
         private string name;
-        private double money;
+        private double price;
 
-        public Product(string name, double money)
+        public Product(string name, double price)
         {
             this.Name = name;
-            this.Money = money;
+            this.Price = price;
         }
 
         public string Name 
@@ -22,20 +22,30 @@ namespace Problem03ShoppingSpree
                 return name;
             }
             set
-            {   
+            {
+                if (String.IsNullOrEmpty(value))
+                {
+                    throw new ArgumentException("Name cannot be empty");
+                }
 
+                name = value;
             }
         }
 
-        public double Money
+        public double Price
         {
             get
             {
-                return money;
+                return price;
             }
             set
             {
+                if (value < 0)
+                {
+                    throw new ArgumentException("Money cannot be negative");
+                }
 
+                price = value;
             }
         }
     }
