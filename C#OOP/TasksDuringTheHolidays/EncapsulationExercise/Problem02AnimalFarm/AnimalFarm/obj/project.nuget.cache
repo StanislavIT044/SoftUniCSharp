@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "BBLeaNaL0OGSsA839JgriqaC2dQSizzYAUdfMMC7qUr8T+N8Pym7EDZwUEMCAZKmBKIOtlgD1r4HSg7gkLK5rg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\slavi\\OneDrive\\Desktop\\Softuni\\SoftUniCSharp\\C#OOP\\TasksDuringTheHolidays\\EncapsulationExercise\\Problem02AnimalFarm\\AnimalFarm\\AnimalFarm.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\slavi\\.nuget\\packages\\microsoft.netcore.app\\2.0.0\\microsoft.netcore.app.2.0.0.nupkg.sha512",
+    "C:\\Users\\slavi\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.0\\microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
+    "C:\\Users\\slavi\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.0.0\\microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512",
+    "C:\\Users\\slavi\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.0.0\\microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512",
+    "C:\\Users\\slavi\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\slavi\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
