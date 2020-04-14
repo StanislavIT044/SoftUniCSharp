@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace Problem01Vehicles
+﻿namespace Problem01Vehicles
 {
     class Program
     {

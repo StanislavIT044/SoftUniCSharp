@@ -5,11 +5,7 @@
         public Car(double fuelQ, double fuelC) 
             : base(fuelQ, fuelC)
         {
-        }
-
-        public override string Drive()
-        {
-            return base.Drive();
+            this.FuelConsumption += 0.9;
         }
 
         public override void Refuel(double quantity)

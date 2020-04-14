@@ -12,9 +12,20 @@
 
         public double FuelConsumption { get; set; }
 
-        public virtual string Drive()
+        public virtual string Drive(double distance)
         {
-            return null;
+            double currentConsumption = distance * this.FuelConsumption;
+            
+            if (this.FuelQuantity >= currentConsumption)
+            {
+                this.FuelQuantity -= currentConsumption;
+
+                return $"{this.GetType().Name} travelled {distance} km";
+            }
+            else
+            {
+                return $"{this.GetType().Name} needs refueling";
+            }
         }
 
         public virtual void Refuel(double quantity)
