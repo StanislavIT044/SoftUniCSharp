@@ -2,15 +2,22 @@
 {
     public class Vehicle
     {
-        public Vehicle(double fuelQ, double fuelC)
+        private double fuelQuantity;
+        private double fuelConsumption;
+        private double tankCapacity;
+
+        public Vehicle(double fuelQ, double fuelC, double tankC)
         {
             this.FuelQuantity = fuelQ;
             this.FuelConsumption = fuelC;
+            this.TankCapacity = tankC;
         }
 
-        public double FuelQuantity { get; set; }
+        public double FuelQuantity { get; set; }// TODO: logig to set !
 
         public double FuelConsumption { get; set; }
+
+        public double TankCapacity { get; set; }
 
         public virtual string Drive(double distance)
         {
@@ -28,7 +35,7 @@
             }
         }
 
-        public virtual void Refuel(double quantity)
+        public virtual void Refuel(double quantity)// TODO: logig to refuel
         {
             
         }
