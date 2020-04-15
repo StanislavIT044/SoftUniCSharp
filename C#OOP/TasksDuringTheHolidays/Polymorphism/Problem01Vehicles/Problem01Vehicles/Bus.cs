@@ -7,7 +7,7 @@
         {
         }
 
-        public string DriveWithPassangers(double distance)
+        internal override string DriveWithPassangers(double distance)
         {
             double currentConsumption = distance * (this.FuelConsumption + 1.4);
 

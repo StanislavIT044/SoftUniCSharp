@@ -37,7 +37,18 @@ namespace Problem01Vehicles
 
                 if (action == "Drive")
                 {
-                    Console.WriteLine(vehicles[vehicle].Drive(disOrLit));
+                    if (vehicle == "Bus")
+                    {
+                        Console.WriteLine(vehicles[vehicle].DriveWithPassangers(disOrLit));
+                    }
+                    else
+                    {
+                        Console.WriteLine(vehicles[vehicle].Drive(disOrLit));
+                    }
+                }
+                else if (action == "DriveEmpty")
+                {
+                    Console.WriteLine(vehicles["Bus"].DriveWithPassangers(disOrLit));
                 }
                 else if (action == "Refuel")
                 {
@@ -56,6 +67,9 @@ namespace Problem01Vehicles
 
             double carFuelQ = double.Parse(carInfo[1]);
             double carFuelC = double.Parse(carInfo[2]);
+            double carTankC = double.Parse(carInfo[3]);
+
+            Vehicle car = new Car(carFuelQ, carFuelC, carTankC);
 
             string[] truckInfo = Console.ReadLine()
                 .Split(" ")
@@ -63,12 +77,23 @@ namespace Problem01Vehicles
 
             double truckFuelQ = double.Parse(truckInfo[1]);
             double truckFuelC = double.Parse(truckInfo[2]);
+            double truckTankC = double.Parse(truckInfo[3]);
 
-            Vehicle car = new Car(carFuelQ, carFuelC);
-            Vehicle truck = new Truck(truckFuelQ, truckFuelC);
+            Vehicle truck = new Truck(truckFuelQ, truckFuelC, truckTankC);
+
+            string[] busInfo = Console.ReadLine()
+                .Split(" ")
+                .ToArray();
+
+            double busFuelQ = double.Parse(busInfo[1]);
+            double busFuelC = double.Parse(busInfo[2]);
+            double busTankC = double.Parse(busInfo[3]);
+
+            Vehicle bus = new Bus(busFuelQ, busFuelC, busTankC);
 
             vehicles.Add("Car", car);
             vehicles.Add("Truck", truck);
+            vehicles.Add("Bus", bus);
 
             return vehicles;
         }

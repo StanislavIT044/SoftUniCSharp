@@ -1,4 +1,6 @@
-﻿namespace Problem01Vehicles
+﻿using System;
+
+namespace Problem01Vehicles
 {
     public class Vehicle
     {
@@ -8,12 +10,29 @@
 
         public Vehicle(double fuelQ, double fuelC, double tankC)
         {
-            this.FuelQuantity = fuelQ;
-            this.FuelConsumption = fuelC;
             this.TankCapacity = tankC;
+            this.FuelQuantity = fuelQ;
+            this.FuelConsumption = fuelC;            
         }
 
-        public double FuelQuantity { get; set; }// TODO: logig to set !
+        public double FuelQuantity 
+        {
+            get
+            {
+                return this.fuelQuantity;
+            }
+            set
+            {
+                if (value > this.TankCapacity)
+                {
+                    this.fuelQuantity = 0;
+                }
+                else
+                {
+                    this.fuelQuantity = value;
+                }
+            } 
+        }
 
         public double FuelConsumption { get; set; }
 
@@ -35,9 +54,28 @@
             }
         }
 
-        public virtual void Refuel(double quantity)// TODO: logig to refuel
+        internal virtual string DriveWithPassangers(double disOrLit)
         {
-            
+            throw new NotImplementedException();
+        }
+
+        public virtual void Refuel(double quantity)
+        {
+            if (quantity <= 0)
+            {
+                Console.WriteLine($"Fuel must be a positive number");
+            }
+            else
+            {
+                if (quantity + this.FuelQuantity <= TankCapacity)
+                {
+                    this.FuelQuantity += quantity;
+                }
+                else
+                {
+                    Console.WriteLine($"Cannot fit {quantity} fuel in the tank");
+                }
+            }
         }
     }
 }

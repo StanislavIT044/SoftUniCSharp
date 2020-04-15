@@ -2,15 +2,10 @@
 {
     public class Car : Vehicle
     {
-        public Car(double fuelQ, double fuelC) 
-            : base(fuelQ, fuelC)
+        public Car(double fuelQ, double fuelC, double tankC) 
+            : base(fuelQ, fuelC, tankC)
         {
             this.FuelConsumption += 0.9;
-        }
-
-        public override void Refuel(double quantity)
-        {
-            this.FuelQuantity += quantity;
         }
     }
 }
