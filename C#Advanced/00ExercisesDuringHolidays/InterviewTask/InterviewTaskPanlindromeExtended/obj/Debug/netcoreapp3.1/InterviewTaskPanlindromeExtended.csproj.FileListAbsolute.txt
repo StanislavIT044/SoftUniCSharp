@@ -1,0 +1,13 @@
+C:\Users\slavi\Desktop\New folder\InterviewTask\InterviewTaskPanlindromeExtended\bin\Debug\netcoreapp3.1\InterviewTaskPanlindromeExtended.exe
+C:\Users\slavi\Desktop\New folder\InterviewTask\InterviewTaskPanlindromeExtended\bin\Debug\netcoreapp3.1\InterviewTaskPanlindromeExtended.deps.json
+C:\Users\slavi\Desktop\New folder\InterviewTask\InterviewTaskPanlindromeExtended\bin\Debug\netcoreapp3.1\InterviewTaskPanlindromeExtended.runtimeconfig.json
+C:\Users\slavi\Desktop\New folder\InterviewTask\InterviewTaskPanlindromeExtended\bin\Debug\netcoreapp3.1\InterviewTaskPanlindromeExtended.runtimeconfig.dev.json
+C:\Users\slavi\Desktop\New folder\InterviewTask\InterviewTaskPanlindromeExtended\bin\Debug\netcoreapp3.1\InterviewTaskPanlindromeExtended.dll
+C:\Users\slavi\Desktop\New folder\InterviewTask\InterviewTaskPanlindromeExtended\bin\Debug\netcoreapp3.1\InterviewTaskPanlindromeExtended.pdb
+C:\Users\slavi\Desktop\New folder\InterviewTask\InterviewTaskPanlindromeExtended\obj\Debug\netcoreapp3.1\InterviewTaskPanlindromeExtended.csprojAssemblyReference.cache
+C:\Users\slavi\Desktop\New folder\InterviewTask\InterviewTaskPanlindromeExtended\obj\Debug\netcoreapp3.1\InterviewTaskPanlindromeExtended.AssemblyInfoInputs.cache
+C:\Users\slavi\Desktop\New folder\InterviewTask\InterviewTaskPanlindromeExtended\obj\Debug\netcoreapp3.1\InterviewTaskPanlindromeExtended.AssemblyInfo.cs
+C:\Users\slavi\Desktop\New folder\InterviewTask\InterviewTaskPanlindromeExtended\obj\Debug\netcoreapp3.1\InterviewTaskPanlindromeExtended.csproj.CoreCompileInputs.cache
+C:\Users\slavi\Desktop\New folder\InterviewTask\InterviewTaskPanlindromeExtended\obj\Debug\netcoreapp3.1\InterviewTaskPanlindromeExtended.dll
+C:\Users\slavi\Desktop\New folder\InterviewTask\InterviewTaskPanlindromeExtended\obj\Debug\netcoreapp3.1\InterviewTaskPanlindromeExtended.pdb
+C:\Users\slavi\Desktop\New folder\InterviewTask\InterviewTaskPanlindromeExtended\obj\Debug\netcoreapp3.1\InterviewTaskPanlindromeExtended.genruntimeconfig.cache

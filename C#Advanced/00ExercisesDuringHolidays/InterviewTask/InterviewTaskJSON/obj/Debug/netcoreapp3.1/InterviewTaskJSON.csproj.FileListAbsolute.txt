@@ -1,0 +1,15 @@
+C:\Users\slavi\Desktop\New folder\InterviewTask\InterviewTaskJSON\bin\Debug\netcoreapp3.1\InterviewTaskJSON.exe
+C:\Users\slavi\Desktop\New folder\InterviewTask\InterviewTaskJSON\bin\Debug\netcoreapp3.1\InterviewTaskJSON.deps.json
+C:\Users\slavi\Desktop\New folder\InterviewTask\InterviewTaskJSON\bin\Debug\netcoreapp3.1\InterviewTaskJSON.runtimeconfig.json
+C:\Users\slavi\Desktop\New folder\InterviewTask\InterviewTaskJSON\bin\Debug\netcoreapp3.1\InterviewTaskJSON.runtimeconfig.dev.json
+C:\Users\slavi\Desktop\New folder\InterviewTask\InterviewTaskJSON\bin\Debug\netcoreapp3.1\InterviewTaskJSON.dll
+C:\Users\slavi\Desktop\New folder\InterviewTask\InterviewTaskJSON\bin\Debug\netcoreapp3.1\InterviewTaskJSON.pdb
+C:\Users\slavi\Desktop\New folder\InterviewTask\InterviewTaskJSON\obj\Debug\netcoreapp3.1\InterviewTaskJSON.csprojAssemblyReference.cache
+C:\Users\slavi\Desktop\New folder\InterviewTask\InterviewTaskJSON\obj\Debug\netcoreapp3.1\InterviewTaskJSON.AssemblyInfoInputs.cache
+C:\Users\slavi\Desktop\New folder\InterviewTask\InterviewTaskJSON\obj\Debug\netcoreapp3.1\InterviewTaskJSON.AssemblyInfo.cs
+C:\Users\slavi\Desktop\New folder\InterviewTask\InterviewTaskJSON\obj\Debug\netcoreapp3.1\InterviewTaskJSON.csproj.CoreCompileInputs.cache
+C:\Users\slavi\Desktop\New folder\InterviewTask\InterviewTaskJSON\obj\Debug\netcoreapp3.1\InterviewTaskJSON.dll
+C:\Users\slavi\Desktop\New folder\InterviewTask\InterviewTaskJSON\obj\Debug\netcoreapp3.1\InterviewTaskJSON.pdb
+C:\Users\slavi\Desktop\New folder\InterviewTask\InterviewTaskJSON\obj\Debug\netcoreapp3.1\InterviewTaskJSON.genruntimeconfig.cache
+C:\Users\slavi\Desktop\New folder\InterviewTask\InterviewTaskJSON\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\slavi\Desktop\New folder\InterviewTask\InterviewTaskJSON\obj\Debug\netcoreapp3.1\InterviewTaskJSON.csproj.CopyComplete
