@@ -21,8 +21,6 @@
                 reversedInput += tokens[i];
             }
 
-            bool asd = reversedInput.ToLower() == input.ToLower();
-
             if (reversedInput.ToLower() == input.ToLower())
             {
                 return true;
