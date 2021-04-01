@@ -1,0 +1,16 @@
+C:\Users\slavi\Desktop\InterviewTasks\InterviewTasks\Problem01InvoiceCalculator\bin\Debug\net5.0\Problem01InvoiceCalculator.exe
+C:\Users\slavi\Desktop\InterviewTasks\InterviewTasks\Problem01InvoiceCalculator\bin\Debug\net5.0\Problem01InvoiceCalculator.deps.json
+C:\Users\slavi\Desktop\InterviewTasks\InterviewTasks\Problem01InvoiceCalculator\bin\Debug\net5.0\Problem01InvoiceCalculator.runtimeconfig.json
+C:\Users\slavi\Desktop\InterviewTasks\InterviewTasks\Problem01InvoiceCalculator\bin\Debug\net5.0\Problem01InvoiceCalculator.runtimeconfig.dev.json
+C:\Users\slavi\Desktop\InterviewTasks\InterviewTasks\Problem01InvoiceCalculator\bin\Debug\net5.0\Problem01InvoiceCalculator.dll
+C:\Users\slavi\Desktop\InterviewTasks\InterviewTasks\Problem01InvoiceCalculator\bin\Debug\net5.0\ref\Problem01InvoiceCalculator.dll
+C:\Users\slavi\Desktop\InterviewTasks\InterviewTasks\Problem01InvoiceCalculator\bin\Debug\net5.0\Problem01InvoiceCalculator.pdb
+C:\Users\slavi\Desktop\InterviewTasks\InterviewTasks\Problem01InvoiceCalculator\obj\Debug\net5.0\Problem01InvoiceCalculator.csprojAssemblyReference.cache
+C:\Users\slavi\Desktop\InterviewTasks\InterviewTasks\Problem01InvoiceCalculator\obj\Debug\net5.0\Problem01InvoiceCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\slavi\Desktop\InterviewTasks\InterviewTasks\Problem01InvoiceCalculator\obj\Debug\net5.0\Problem01InvoiceCalculator.AssemblyInfoInputs.cache
+C:\Users\slavi\Desktop\InterviewTasks\InterviewTasks\Problem01InvoiceCalculator\obj\Debug\net5.0\Problem01InvoiceCalculator.AssemblyInfo.cs
+C:\Users\slavi\Desktop\InterviewTasks\InterviewTasks\Problem01InvoiceCalculator\obj\Debug\net5.0\Problem01InvoiceCalculator.csproj.CoreCompileInputs.cache
+C:\Users\slavi\Desktop\InterviewTasks\InterviewTasks\Problem01InvoiceCalculator\obj\Debug\net5.0\Problem01InvoiceCalculator.dll
+C:\Users\slavi\Desktop\InterviewTasks\InterviewTasks\Problem01InvoiceCalculator\obj\Debug\net5.0\ref\Problem01InvoiceCalculator.dll
+C:\Users\slavi\Desktop\InterviewTasks\InterviewTasks\Problem01InvoiceCalculator\obj\Debug\net5.0\Problem01InvoiceCalculator.pdb
+C:\Users\slavi\Desktop\InterviewTasks\InterviewTasks\Problem01InvoiceCalculator\obj\Debug\net5.0\Problem01InvoiceCalculator.genruntimeconfig.cache
