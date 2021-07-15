@@ -1,0 +1,16 @@
+C:\Users\slavi\Desktop\SoftUni\SoftUniCSharp\C#OOP\00ExercisesDuringHollidays\InterviewTasks\InterviewTasks02\ZooPark\ZooPark\obj\Debug\net5.0\ZooPark.csprojAssemblyReference.cache
+C:\Users\slavi\Desktop\SoftUni\SoftUniCSharp\C#OOP\00ExercisesDuringHollidays\InterviewTasks\InterviewTasks02\ZooPark\ZooPark\obj\Debug\net5.0\ZooPark.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\slavi\Desktop\SoftUni\SoftUniCSharp\C#OOP\00ExercisesDuringHollidays\InterviewTasks\InterviewTasks02\ZooPark\ZooPark\obj\Debug\net5.0\ZooPark.AssemblyInfoInputs.cache
+C:\Users\slavi\Desktop\SoftUni\SoftUniCSharp\C#OOP\00ExercisesDuringHollidays\InterviewTasks\InterviewTasks02\ZooPark\ZooPark\obj\Debug\net5.0\ZooPark.AssemblyInfo.cs
+C:\Users\slavi\Desktop\SoftUni\SoftUniCSharp\C#OOP\00ExercisesDuringHollidays\InterviewTasks\InterviewTasks02\ZooPark\ZooPark\obj\Debug\net5.0\ZooPark.csproj.CoreCompileInputs.cache
+C:\Users\slavi\Desktop\SoftUni\SoftUniCSharp\C#OOP\00ExercisesDuringHollidays\InterviewTasks\InterviewTasks02\ZooPark\ZooPark\bin\Debug\net5.0\ZooPark.exe
+C:\Users\slavi\Desktop\SoftUni\SoftUniCSharp\C#OOP\00ExercisesDuringHollidays\InterviewTasks\InterviewTasks02\ZooPark\ZooPark\bin\Debug\net5.0\ZooPark.deps.json
+C:\Users\slavi\Desktop\SoftUni\SoftUniCSharp\C#OOP\00ExercisesDuringHollidays\InterviewTasks\InterviewTasks02\ZooPark\ZooPark\bin\Debug\net5.0\ZooPark.runtimeconfig.json
+C:\Users\slavi\Desktop\SoftUni\SoftUniCSharp\C#OOP\00ExercisesDuringHollidays\InterviewTasks\InterviewTasks02\ZooPark\ZooPark\bin\Debug\net5.0\ZooPark.runtimeconfig.dev.json
+C:\Users\slavi\Desktop\SoftUni\SoftUniCSharp\C#OOP\00ExercisesDuringHollidays\InterviewTasks\InterviewTasks02\ZooPark\ZooPark\bin\Debug\net5.0\ZooPark.dll
+C:\Users\slavi\Desktop\SoftUni\SoftUniCSharp\C#OOP\00ExercisesDuringHollidays\InterviewTasks\InterviewTasks02\ZooPark\ZooPark\bin\Debug\net5.0\ref\ZooPark.dll
+C:\Users\slavi\Desktop\SoftUni\SoftUniCSharp\C#OOP\00ExercisesDuringHollidays\InterviewTasks\InterviewTasks02\ZooPark\ZooPark\bin\Debug\net5.0\ZooPark.pdb
+C:\Users\slavi\Desktop\SoftUni\SoftUniCSharp\C#OOP\00ExercisesDuringHollidays\InterviewTasks\InterviewTasks02\ZooPark\ZooPark\obj\Debug\net5.0\ZooPark.dll
+C:\Users\slavi\Desktop\SoftUni\SoftUniCSharp\C#OOP\00ExercisesDuringHollidays\InterviewTasks\InterviewTasks02\ZooPark\ZooPark\obj\Debug\net5.0\ref\ZooPark.dll
+C:\Users\slavi\Desktop\SoftUni\SoftUniCSharp\C#OOP\00ExercisesDuringHollidays\InterviewTasks\InterviewTasks02\ZooPark\ZooPark\obj\Debug\net5.0\ZooPark.pdb
+C:\Users\slavi\Desktop\SoftUni\SoftUniCSharp\C#OOP\00ExercisesDuringHollidays\InterviewTasks\InterviewTasks02\ZooPark\ZooPark\obj\Debug\net5.0\ZooPark.genruntimeconfig.cache

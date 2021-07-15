@@ -1,0 +1,16 @@
+C:\Users\slavi\Desktop\SoftUni\SoftUniCSharp\C#OOP\00ExercisesDuringHollidays\InterviewTasks\InterviewTasks02\InvoiceCalculator\InvoiceCalculator\bin\Debug\net5.0\InvoiceCalculator.exe
+C:\Users\slavi\Desktop\SoftUni\SoftUniCSharp\C#OOP\00ExercisesDuringHollidays\InterviewTasks\InterviewTasks02\InvoiceCalculator\InvoiceCalculator\bin\Debug\net5.0\InvoiceCalculator.deps.json
+C:\Users\slavi\Desktop\SoftUni\SoftUniCSharp\C#OOP\00ExercisesDuringHollidays\InterviewTasks\InterviewTasks02\InvoiceCalculator\InvoiceCalculator\bin\Debug\net5.0\InvoiceCalculator.runtimeconfig.json
+C:\Users\slavi\Desktop\SoftUni\SoftUniCSharp\C#OOP\00ExercisesDuringHollidays\InterviewTasks\InterviewTasks02\InvoiceCalculator\InvoiceCalculator\bin\Debug\net5.0\InvoiceCalculator.runtimeconfig.dev.json
+C:\Users\slavi\Desktop\SoftUni\SoftUniCSharp\C#OOP\00ExercisesDuringHollidays\InterviewTasks\InterviewTasks02\InvoiceCalculator\InvoiceCalculator\bin\Debug\net5.0\InvoiceCalculator.dll
+C:\Users\slavi\Desktop\SoftUni\SoftUniCSharp\C#OOP\00ExercisesDuringHollidays\InterviewTasks\InterviewTasks02\InvoiceCalculator\InvoiceCalculator\bin\Debug\net5.0\ref\InvoiceCalculator.dll
+C:\Users\slavi\Desktop\SoftUni\SoftUniCSharp\C#OOP\00ExercisesDuringHollidays\InterviewTasks\InterviewTasks02\InvoiceCalculator\InvoiceCalculator\bin\Debug\net5.0\InvoiceCalculator.pdb
+C:\Users\slavi\Desktop\SoftUni\SoftUniCSharp\C#OOP\00ExercisesDuringHollidays\InterviewTasks\InterviewTasks02\InvoiceCalculator\InvoiceCalculator\obj\Debug\net5.0\InvoiceCalculator.csprojAssemblyReference.cache
+C:\Users\slavi\Desktop\SoftUni\SoftUniCSharp\C#OOP\00ExercisesDuringHollidays\InterviewTasks\InterviewTasks02\InvoiceCalculator\InvoiceCalculator\obj\Debug\net5.0\InvoiceCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\slavi\Desktop\SoftUni\SoftUniCSharp\C#OOP\00ExercisesDuringHollidays\InterviewTasks\InterviewTasks02\InvoiceCalculator\InvoiceCalculator\obj\Debug\net5.0\InvoiceCalculator.AssemblyInfoInputs.cache
+C:\Users\slavi\Desktop\SoftUni\SoftUniCSharp\C#OOP\00ExercisesDuringHollidays\InterviewTasks\InterviewTasks02\InvoiceCalculator\InvoiceCalculator\obj\Debug\net5.0\InvoiceCalculator.AssemblyInfo.cs
+C:\Users\slavi\Desktop\SoftUni\SoftUniCSharp\C#OOP\00ExercisesDuringHollidays\InterviewTasks\InterviewTasks02\InvoiceCalculator\InvoiceCalculator\obj\Debug\net5.0\InvoiceCalculator.csproj.CoreCompileInputs.cache
+C:\Users\slavi\Desktop\SoftUni\SoftUniCSharp\C#OOP\00ExercisesDuringHollidays\InterviewTasks\InterviewTasks02\InvoiceCalculator\InvoiceCalculator\obj\Debug\net5.0\InvoiceCalculator.dll
+C:\Users\slavi\Desktop\SoftUni\SoftUniCSharp\C#OOP\00ExercisesDuringHollidays\InterviewTasks\InterviewTasks02\InvoiceCalculator\InvoiceCalculator\obj\Debug\net5.0\ref\InvoiceCalculator.dll
+C:\Users\slavi\Desktop\SoftUni\SoftUniCSharp\C#OOP\00ExercisesDuringHollidays\InterviewTasks\InterviewTasks02\InvoiceCalculator\InvoiceCalculator\obj\Debug\net5.0\InvoiceCalculator.pdb
+C:\Users\slavi\Desktop\SoftUni\SoftUniCSharp\C#OOP\00ExercisesDuringHollidays\InterviewTasks\InterviewTasks02\InvoiceCalculator\InvoiceCalculator\obj\Debug\net5.0\InvoiceCalculator.genruntimeconfig.cache
