@@ -52,19 +52,19 @@
             Random random = new Random();
 
             int numForFeedingMokeys = random.Next(5, 25);
-            foreach (var monkey in animalsInZooPark.Where(x => x.GetType().ToString() == "ZooPark.Core.Animals.Monkey"))
+            foreach (var monkey in animalsInZooPark.Where(x => x is Monkey))
             {
                 monkey.Feeding(numForFeedingMokeys);
             }
 
             int numForFeedingLions = random.Next(5, 25);
-            foreach (var lion in animalsInZooPark.Where(x => x.GetType().ToString() == "ZooPark.Core.Animals.Lion"))
+            foreach (var lion in animalsInZooPark.Where(x => x is Lion))
             {
                 lion.Feeding(numForFeedingLions);
             }
 
             int numForFeedingElephants = random.Next(5, 25);
-            foreach (var elephant in animalsInZooPark.Where(x => x.GetType().ToString() == "ZooPark.Core.Animals.Elephant"))
+            foreach (var elephant in animalsInZooPark.Where(x => x is Elephant))
             {
                 elephant.Feeding(numForFeedingElephants);
             }
