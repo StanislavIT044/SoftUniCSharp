@@ -1,0 +1,600 @@
+﻿the -
+And - И
+a -
+To - За (до, към)
+Was - Бях
+I - Аз
+Is - Е (Съм)
+Of - От (на, за)
+That - Че (да, този, онзи)
+You - Ти
+He - Той
+It - То (това)
+In - В (на, по през, при)
+His - Негов
+Had - Имах
+Do - Правя (върша)
+With - С (на, при, от)
+Not - Не
+Her - Нейн
+For - За
+On - На
+At - В (на, при)
+But - Но
+She - Тя
+Him - Него
+As - Като
+Are - Са (съм)
+Said - Казан
+They - Те
+We - Ние
+All - Всичко (всички, целият)
+This - Този (това)
+Have - Имам (притежавам)
+There - Там
+What - Какво
+Out - Вън
+Up - Нагоре
+One - Един
+From - От
+Me - Мене (ми)
+Go - Отивам (ходя, вървя)
+Were - Бяха
+Would - Щях
+Like - Подобен (като, харесвам)
+When - Кога? (когато)
+Could - Бих могъл
+Then - Тогава (след това)
+Be - Бъде
+Them - Тях
+Did - Правех
+Been - Бъде
+Now - Сега
+Look - Гледам (поглед, изглеждам)
+Back - Назад (обратен, гръб)
+My - Мой
+No - Не
+Your - Твой, ваш
+Which - Кой /от няколко/
+About - Около (приблизително)
+Time - Време
+Down - Надолу
+Into - В, (към)
+Who - Кой
+Can - Мога
+Know - Зная (познавам)
+If - Ако
+Just - Просто (тъкмо)
+Their - Техен
+Get - Вземам
+Over - Над (върху)
+More - Повече (по /сравн. ст./)
+Some - Няколко (някакъв)
+Man - Мъж, човек
+Come - Идвам
+An -
+So - Така (така че)
+Other - Друг
+Little - Малко
+See - Виждам
+Here - Тук (това място, ето)
+Thing - Нещо
+Hand - Ръка
+By - От
+Will - Ще
+Way - Начин
+Again - Отново (пак, още веднъж)
+Right - Дясно (правилно)
+Only - Само (само)
+Am - Съм
+How - Как?
+Think - Мисля
+Or - Или
+Got - Получих
+Good - Добър
+Eye - Око
+Well - Добре
+Thought - Мисъл
+Day - Ден
+Two - Две
+Than - Отколкото (освен)
+Before - Преди
+Where - Къде
+Very - Много
+Say - Казвам
+Came - Дойдох
+Any - Някой
+Old - Стар
+Still - Все още
+After - След
+Of - От (на)
+Has - Имам
+Never - Никога
+Going - Отиване
+Even - Още (дори)
+Much - Много
+Went - Отиване
+To - До, на
+Away - Далеч
+Something - Нещо
+First - Първи (начало)
+Make - Правя
+Head - Глава (главен)
+Want - Искам (желая)
+Turn - Завой (завивам, въртя)
+Face - Лице
+Made - Направен (изработен)
+Seem - Изглежда
+Call - Наричам (повикване)
+Ask - Питам (поисквам)
+Should - Трябва
+Through - През
+Long - Дълъг (продължителен)
+Let - Нека (позволявам)
+Take - Вземам (хващам)
+Saw - Видях
+Around - Наоколо
+Our - Наш
+Door - Врата
+Last - Последен (миналия)
+Tell - Казвам (разквам)
+Might - Може
+Own - Свой (собствен)
+Night - Нощ (вечер)
+Year - Година (възраст)
+Must - Трябва
+Because - Защото (тъй като, понеже)
+Voice - Глас
+Such - Подобен (такъв)
+Room - Стя (помещение
+Place - Място
+Those - Тези (онези)
+Work - Работа
+Put - Слагам (поставям)
+Bill - Сметка (законороект)
+Nothing - Нищо (никак)
+Most - Най- /сравнителна степен/
+House - Къща (дом)
+Why - Защо?
+May - Мога (може би)
+Side - Страна
+Great - Голям (велик)
+These - Тези
+White - Бял
+People - Хора (народ)
+Upon - При
+Left - Ляв
+Open - Отворен (открит)
+Himself - Се (себе си)
+Friends - Приятел (приятелка)
+Felt - Чувствах
+Three - Три
+Knew - Знаех
+Another - Друг
+Once - Веднъж, един път
+Give - Давам (предавам, подарявам)
+Almost - Почти (едва ли не)
+Mind - Ум
+Took - Взех
+Light - Светлина (светя)
+Yes - Да
+Love - Любов (обичам)
+And - И
+Boy - Момче
+Looking - Търси
+While - Докато
+Sound - Звук
+Moment - Момент (миг)
+Men - Мъже
+Ever - Някога
+Under - Под
+Told - Казах
+Really - Наистина ли (тъй ли)
+Life - Живот
+World - Свят
+Same - Също (единакъв)
+Sure - Сигурен
+New - Нов
+Found - Намерих
+Being - Съществуване
+Enough - Достатъчен
+Gone - Отиващ
+Many - Много
+Big - Голям
+Does -
+Every - Всеки
+Began - Започнал
+Always - Винаги
+Girl - Момиче
+Home - Дом (вкъщи)
+Without - Без
+Heard - Чух
+Toward(s) - Към (по посока на)
+Need - Нужда (трябва)
+Stop - Спри
+Maybe - Може би
+Part - Част
+Use - Употреба (използване)
+Okay - Правилен (съгласен)
+Use - Употреба (използване)
+Though - Макар че (въпроеки че)
+Far - Далечен, отдалечен
+Name - Име (намименование)
+Word - Дума (слово)
+Behind - Зад (отзад)
+Try - Опит (опитвам)
+Help - Помощ
+Also - Също, освен това
+Better - По-добър (по-подходящ)
+Mean - Означавам (знача)
+Father - Баща
+Against - Срещу (против)
+Anything - Нещо
+Start - Начало (старт)
+Yet - Още (все още, все пак)
+Walk - Ходя
+Woman - Жена
+Seen - Гледах
+Close - Затворен (отблизо)
+Remember - Помня
+Car - Кола (автомобил)
+Between - Между
+Until - Докато
+Both - И двамата&lt;
+Done - Извършен (свършен)
+God - Бог (господ)
+Find - Намирам (откривам)
+Water - Вода
+Arm - Ръка
+Few - Малко /на брой/
+Hear - Чувам
+Dog - Куче
+Happen - Става (случва се)
+Its - Негов
+Book - Книга
+Morning - Сутрин
+Gid - Дете (хлапе
+Street - Улица
+Believe - Вярвам
+Talk - Говоря (приказвам)
+Mother - Майка
+Kind - Вид (род)
+Coming - Идващ (настъпващ)
+Each - Всеки (всекиму)
+Black - Черен
+Half - Половин
+Red - Червен
+Stood - Стоях
+Young - Млад
+Shall - Ще
+Show - Показвам
+Feet - Крака
+Feel - Чувствам (усещам)
+Keep - Държа
+Next - Следващ (съседен)
+Dark - Тъмен
+Along - Покрай
+Pass - Минавам (преминавам)
+Course - Курс
+Window - Прозорец
+Dead - Мъртъв
+Hour - Час
+Wanted - Търсен (желан)
+Matter - Материя (значение)
+Since - Откакто
+Cry - Викам (рева, крещя)
+Heart - Сърце (душа)
+Answer - Отговор
+Small - Малък (дребен)
+Yeah - Да (така ли)
+Doing - Вършене, правене
+Four - Четири
+Move - Движа (местя)
+Live - Живея
+Suddenly - Внезапно (неочаквано)
+Five - Пет
+Body - Тяло
+Fire - Огън
+Mouth - Уста
+Leave - Напускам (оставям)
+Smile - Усмивка
+State - Състояние (държава)
+Samily - Семейство (фамилия)
+Road - Път
+Front - Преден
+Laugh - Смея се
+Gave - Взех
+Across - Напряко
+Step - Стъпка (крачка)
+Quite - Съвсем, доста
+Change - Сменям (променям)
+Later - По-късно
+Together - Заедно
+Soon - Скоро
+Least - Най-малък (най-маловажен
+Second - Втори
+Kill - Убивам
+Watch - Гледам
+Wife - Съпруга
+Hard - Твърд (корав)
+Wait - Чакам
+Sat - Седнах
+Feeling - Чувство
+High - Висок
+Guy - Човек (момче)
+Idea - Идея
+Line - Линия
+Fear - Страх
+Miss - Пропускам (госпожица)
+Bad - Слаб
+Hair - Коса (косъм)
+Minute - Минута
+Everything - Всичко
+Please - Моля
+Gray - Сив
+Follow - Следвам (вървя след)
+Hope - Надежда
+Blood - Кръв
+Won - Спечелих
+Air - Въздух
+Perhaps - Може би
+Set - Настройвам (комплект0
+Tree - Дърво
+Run - Тичам
+Death - Смърт
+Else - Друг
+Already - Вече
+Myself - Себе си
+Bed - Легло
+Lot - Много (жребий)
+Point - Точка
+Money - Пари
+Getting - -
+Rest - Почивка
+Whole - Цял
+Pull - Дърпам
+Business - Работа
+Either - Или (единият, другият)
+Lady - Дама
+Play - Играя
+Suppose - Предполагам (допускам)
+Top - Връх
+Reach - Достигам (простирам се)
+Week - Седмица
+Thank - Благодаря
+Wall - Стена
+Real - Истински (действителен)
+Held - Държах
+Best - Най-добър
+Read - Чета
+Thinking - Мислещ (разумен)
+Inside - Вътре
+Stay - Оставам (отсядам, престой)
+Question - Въпрос
+Full - Пълен
+Cold - Студен
+Die - Умирам
+Sir - Господине
+Case - Случай (положение)
+Ran - Бягах
+Sometimes - Понякога
+Power - Мощност (сила)
+Wish - Искам (желая, пожелавам)
+Dream - Сън
+Stand - Стоя
+Son - Син
+Herself - Себе си
+Pretty - Приятен (привлекателен)
+Paper - Хартия
+Shoulder - Рамо
+Care - Грижа
+Alone - Сам (самотен)
+Making - Създаване
+Near - Наблизо
+Finger - пръст
+Hold - Държа
+Return - Връщам
+Fact - Действителност
+Understand - Разбирам
+Guess - Предполагам (гадая)
+Table - Маса
+Dear - Скъп (драг)
+Trying - Мъчителен
+Fell - Падах
+Floor - Етаж
+Mile - Миля
+Probably - Вероятно (навярно)
+Type - Тип (вид)
+Deep - Дълбок
+Glass - Стъкло (очила)
+Standing - Стоящ (застанал)
+Trouble - Безпокойство
+However - Както и да е
+Taken - Взет
+Hey - Хей
+Sort - Вид (категория)
+Lay - Полагам
+Town - Град (градче)
+Sleep - Сън (спане)
+School - Училище
+Lost - Загубен (изгубен)
+Green - Зелен
+Gonna - Ще
+Lip - Устна
+Round - Кръгъл
+Clear - Ясен (бистър)
+Heaving - Вдигане
+Scream - Писък
+Touch - Докосвам
+Blue - Син
+Hundred - Сто
+Know - Зная
+Running - Бягащ (тичащ)
+Large - Голям (едър)
+Surprise - Изненада
+Beside - Освен (до)
+Talking - Говорещ
+Ten - Десет
+Less -
+Letter - Буква
+Twenty - Двадесет
+Snow - Сняг
+Kept - Пазех
+Brought - Донесох
+Someone - Някой
+Past - Минал
+Country - Страна
+Leg - Крак
+Pick - Бера (късам)
+Brother - Брат
+Wood - Гора
+Women - Жени
+Wrong - Грешен
+Sense - Смисъл
+Hurt - Наранявам (причинявам болка)
+Cut - Режа
+Drop - Капка
+Ring - Пръстен
+Sitting - Сядане
+True - Вярно
+Poor - Беден
+Order - Ред (последователност)
+Fang - Зъб
+Child - Дете
+Ready - Готов
+Land - Земя (суша)
+Hot - Горещ
+Speak - Говоря
+Children - Деца
+Fine - Чудесно
+Given - Определен (даден)
+Able - Способен
+Become - Ставам
+Low - Нисък
+Person - Лице (човек)
+Evening - Вечер
+Outside - Външност
+Listen - Слушам
+Wind - Вятър, буря
+Smell - Мирис (аромат)
+Chair - Стол
+Six - Шест
+Forward - Преден
+Hill - Хълм
+Reason - Причина
+Ground - Земя (почва)
+Above - Горе (отгоре)
+Chance - Шанс (възможност)
+Story - История
+Late - Късен
+Saying - Казвайки
+Star - Звезда
+Husband - Съпруг
+Ago - Преди
+Except - Изключвам
+Lord - Господар (стопанин)
+Sorry - Съжалявам
+Number - Брой, число
+Roll - Търкаляне
+Longer - По-дълъг
+Rock - Скала
+Learn - Уча
+Often - Често
+Although - Въпреки че (макар че)
+Shit - Лайна (глупости)
+Sister - Сестра
+Strange - Чужд (непонзат)
+Bring - Нося
+Pain - Болка
+Nod - Кимване
+Fall - Падане
+Finally - Накрая
+Among - Между (измежду)
+Cause - Причина
+Afraid - Изплашен (уплашен)
+Notice - Съобщение (известие)
+Sun - Слънце
+Month - Месец
+Shut - Затварям (приклещвам)
+Box - Кутия
+Hell - Ад
+Office - Офис (кантора)
+During - През (по време на)
+Wonder - Чудо
+Beyond - Отвъд (оттаткъ)
+Became - Станах
+Shadow - Сянка
+Slowly - Бавно (полека)
+Instead - Вместо (замяна)
+Ear - Ухо
+Picture - Картина
+Interest - Интерес
+Cannot - Не може
+Present - Сегашен (настоящ)
+Bit - Парченце (късче)
+Living - Живеене
+Remain - Оставам
+Appear - Явявам се (показвам се)
+Store - Магазин (запасявам)
+Marry - Женя/омъжвам
+Rather - По-скоро (по-точно)
+Doubt - Съмнявам се
+Teeth - Зъби
+Force - Сила (енергия)
+Spoke - Говорех
+Finish - Завършвам (довършвам)
+Indeed -
+Seat - Седалка (място за сядане)
+Nor - Нито (също така не)
+Save - Спасявам (спестявам)
+Job - Работа
+War - Война
+Dress - Обличам
+Cover - Покривам
+Realize - Реализирам (осъзнавам)
+Gun - Пистолет
+Heavy - Тежък
+Waiting - Чакане (очакване)
+Fellow - Колега (другар)
+Sign - Знак
+Stuff - Материя (вещество)
+Decide - Решавам (избирам)
+Expect - Очаквам (надявам се)
+Hit - Удрям
+Corner - Ъгъл
+Beaver - Работя усилено
+King - Крал (цар)
+Happy - Щаслив
+Phone - Телефон
+Several - Няколко (неколцина)
+City - Голям град
+News - Новина (вест)
+Summer - Лято
+Different - Различен
+Sit - Седя
+Actually - Всъщност (в действителност)
+Caught - Хванах
+Taking - Превземане
+Broken - Счупен
+Early - Ранен
+Bright - Светъл (ярък)
+Daughter - Дъщеря
+Enter - Влизам
+Shot - Изстрел
+Carry - Нося
+Foot - Крак
+Scare - Плаша (изплашвам)
+Tad - Малчуган
+Holding - Владение (захващане)
+Human - Човешки
+Whatever - Каквото и да е
+Yourself - Себе си
+Form - Форма
+Worry - Тревожа (безпокоя)
+Shook - Клатех
+Exactly - Точно (именно така)
+Neck - Врат, шия
+Fill - Пълня
+Certain - Сигурен (уверен)
+Nose - Нос
+Brutal - Груб (жесток)
